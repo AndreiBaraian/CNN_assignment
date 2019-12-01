@@ -1,0 +1,4 @@
+/download_fashion_mnist.py
+.ipynb_checkpoints
+__pycache__
+data
